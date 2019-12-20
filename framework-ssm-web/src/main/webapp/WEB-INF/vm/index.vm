@@ -1,0 +1,11 @@
+
+velocity首页
+
+#if (!$!{abc})
+    true1 + $!{abc}
+#elseif($!{abc})
+    ! + $!{abc}
+#else
+    $!{abc}
+#end
+

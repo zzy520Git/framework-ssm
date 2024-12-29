@@ -18,7 +18,7 @@
       <version>1.0-SNAPSHOT</version>
     </dependency>
 
-    <!-- mysql -->
+    <!-- mysql依赖多试几次易大师 -->
     <dependency>
       <groupId>mysql</groupId>
       <artifactId>mysql-connector-java</artifactId>
